@@ -1,0 +1,13 @@
+# Termux/কম্পিউটারে চালানোর জন্য (Render-এ এই ফাইল লাগে না, render_env.txt ব্যবহার করুন)
+BOT_TOKEN=9271007687:AAFqsPKfqo9gUWcdYwwZDb567DskbARq6tI
+ZEBRA_KEY=DS8YLLZHXXW
+ZEBRA_BASE=https://api.zebrasms.com/api/v1/publicapi
+SUPPORT=@Monir12255
+ADMIN_IDS=
+OTP_GROUP_ID=-1004380022996
+OTP_GROUP_URL=https://t.me/+q78Q_9rFypE1MGNl
+CHANNEL_URL=
+BRAND=OTP
+GROUP_ALL_OTPS=1
+LIVE_POST_EVERY=900
+REQUIRED_CHANNELS=
